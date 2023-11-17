@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998701899741",
+    "project_id": "gramo-demo",
+    "storage_bucket": "gramo-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998701899741:android:bccfd77c7b606224b06034",
+        "android_client_info": {
+          "package_name": "com.example.gramo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB676ikXxL5ma7d80kERP1l1KFqN9iDzdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
