@@ -37,6 +37,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   cloud_firestore: ^4.13.1
   firebase_auth: ^4.14.0
+  record: ^5.0.1
+  path_provider: ^2.1.1
+  audio_waveforms: ^1.0.4
+  file_picker: ^6.1.1
+  just_audio: ^0.9.36
 
 dev_dependencies:
   flutter_test:
